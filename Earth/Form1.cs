@@ -10,6 +10,7 @@ namespace Earth
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("‚ ‚ ‚ ");
+            MessageBox.Show("aaa");
         }
     }
 }
